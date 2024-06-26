@@ -1,2 +1,2 @@
 # Calmhost-Website
-Calmhost Source Code
+This repo contains everything except API-keys and unneeded things.
